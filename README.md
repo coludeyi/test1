@@ -2,9 +2,9 @@
 This is just a test repository
 
 - List of items:
-  [x] Apple
-  [] Orange
-  [x] Grapes
+[ x ] Apple
+[ ] Orange
+[ x ] Grapes
 
 ## Test section
 
